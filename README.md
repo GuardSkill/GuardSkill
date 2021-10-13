@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1EABFF&size=16&vCenter=true&multiline=true&width=600&lines=If+God+can+make+natural+life%2C+man+can+create+artificial+intelligence.)
 
 ![Years Badge](https://badges.pufler.dev/years/GuardSkill)
